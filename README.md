@@ -1,2 +1,2 @@
-# -souleymanesow-usdc-2024
+# souleymanesow-usdc-2024
 Find search term in books 
