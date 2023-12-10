@@ -1,6 +1,6 @@
 # souleymanesow-usdc-2024
 
-Included are project files to support my application for software engineering roles through the GSA's U.S. Digital Corps program.
+Included are project files to support my application for software engineering role through the GSA's U.S. Digital Corps program.
 
 tester.html: An HTML file to test the function findSearchTermInBooks()
 
