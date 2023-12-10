@@ -4,7 +4,7 @@ Included are project files to support my application for software engineering ro
 
 tester.html: An HTML file to test the function findSearchTermInBooks()
 
-book_search.js: A JavaScript source code file I wrote to implement findSearchTermInBooks() and its validation test.
+book_search.js: A JavaScript source code file I wrote to implement findSearchTermInBooks() and run unit tests.
 
 findSearchTermInBooks(searchTerm, scannedTextObj) is a function that takes a string named searchTerm
 and object named scannedTextObj as inputs, then return the book's ISBN, pages, and lines where the searchTerm 
